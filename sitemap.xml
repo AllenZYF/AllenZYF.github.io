@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://nooballen.top/2020/09/07/%E7%94%B5%E5%B7%A5%E5%AD%A6/</loc>
+    
+    <lastmod>2020-09-07</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://nooballen.top/2020/09/06/%E9%87%91%E8%9E%8D%E5%B8%82%E5%9C%BA/</loc>
     
     <lastmod>2020-09-07</lastmod>
@@ -40,6 +47,13 @@
   
   <url>
     <loc>http://nooballen.top/tags/%E6%95%B0%E5%AD%A6/</loc>
+    <lastmod>2020-09-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://nooballen.top/tags/%E7%94%B5%E5%B7%A5%E5%AD%A6/</loc>
     <lastmod>2020-09-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
