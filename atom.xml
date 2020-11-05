@@ -6,7 +6,7 @@
   <link href="http://nooballen.top/atom.xml" rel="self"/>
   
   <link href="http://nooballen.top/"/>
-  <updated>2020-09-20T13:31:28.820Z</updated>
+  <updated>2020-09-28T13:59:19.273Z</updated>
   <id>http://nooballen.top/</id>
   
   <author>
@@ -15,6 +15,74 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://nooballen.top/2020/11/05/C++%E4%B8%AD%E5%85%B3%E4%BA%8Estring%E7%9A%84%E7%94%A8%E6%B3%95/"/>
+    <id>http://nooballen.top/2020/11/05/C++%E4%B8%AD%E5%85%B3%E4%BA%8Estring%E7%9A%84%E7%94%A8%E6%B3%95/</id>
+    <published>2020-11-05T15:55:05.762Z</published>
+    <updated>2020-09-28T13:59:19.273Z</updated>
+    
+    <content type="html"><![CDATA[<p>C++中关于string的用法</p><p>string str;</p><p>查找</p><p>str.find(); 如果没有找到，会返回一个值string::npos</p><p>修改</p><p>1.对string进行排序</p><p>sort(str.begin(),str.end());</p><p>2.向string中插入字符</p><p>str.insert(  n1,  s  , n2,  len   )  </p><p>从str[n1]起 插入从s[n2]起的len个字符</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;C++中关于string的用法&lt;/p&gt;
+&lt;p&gt;string str;&lt;/p&gt;
+&lt;p&gt;查找&lt;/p&gt;
+&lt;p&gt;str.find(); 如果没有找到，会返回一个值string::npos&lt;/p&gt;
+&lt;p&gt;修改&lt;/p&gt;
+&lt;p&gt;1.对string进行排序&lt;/p&gt;
+&lt;p&gt;sort(str.</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://nooballen.top/2020/11/05/%E8%BE%97%E8%BD%AC%E7%9B%B8%E9%99%A4%E6%B3%95/"/>
+    <id>http://nooballen.top/2020/11/05/%E8%BE%97%E8%BD%AC%E7%9B%B8%E9%99%A4%E6%B3%95/</id>
+    <published>2020-11-05T15:55:05.759Z</published>
+    <updated>2020-09-28T14:28:26.389Z</updated>
+    
+    <content type="html"><![CDATA[<p>求两个数的最大公约数的常用方法为辗转相除法，通常用于分数约分</p><p>以除数和余数反复做除法运算</p><p>int GCD(int a,int b)  //求最大公约数<br>{<br>   int num1=max(a,b),num2=min(a,b);<br>   int temp=num1%num2; //记录余数</p><p>   while(temp!=0)<br>   {<br>        num1=num2;<br>        num2=temp;<br>        temp=num1%num2;<br>    } cout&lt;&lt;num2&lt;&lt;” “;<br>    return num2;<br>}</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;求两个数的最大公约数的常用方法为辗转相除法，通常用于分数约分&lt;/p&gt;
+&lt;p&gt;以除数和余数反复做除法运算&lt;/p&gt;
+&lt;p&gt;int GCD(int a,int b)  //求最大公约数&lt;br&gt;{&lt;br&gt;   int num1=max(a,b),num2=min(a,b);&lt;br&gt;</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://nooballen.top/2020/11/05/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    <id>http://nooballen.top/2020/11/05/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</id>
+    <published>2020-11-05T15:55:05.744Z</published>
+    <updated>2020-11-05T15:43:39.802Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Allen学数据结构与算法基础"><a href="#Allen学数据结构与算法基础" class="headerlink" title="Allen学数据结构与算法基础"></a>Allen学数据结构与算法基础</h1><h2 id="Day-1"><a href="#Day-1" class="headerlink" title="Day 1"></a>Day 1</h2><hr><p>数据 &gt; 数据元素 &gt; 数据项</p><p><img src="/2020/11/05/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/image-20201105233617409.png" alt="image-20201105233617409"></p><p>逻辑结构可分为</p><p>1.线性结构</p><p>2.非线性结构</p><p><img src="/2020/11/05/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/image-20201105234337718.png" alt="image-20201105234337718"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;Allen学数据结构与算法基础&quot;&gt;&lt;a href=&quot;#Allen学数据结构与算法基础&quot; class=&quot;headerlink&quot; title=&quot;Allen学数据结构与算法基础&quot;&gt;&lt;/a&gt;Allen学数据结构与算法基础&lt;/h1&gt;&lt;h2 id=&quot;Day-1&quot;&gt;&lt;a hre</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title></title>
