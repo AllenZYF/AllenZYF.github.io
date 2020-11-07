@@ -39,11 +39,11 @@
   </entry>
   
   <entry>
-    <title></title>
+    <title>辗转相除法</title>
     <link href="http://nooballen.top/2020/11/05/%E8%BE%97%E8%BD%AC%E7%9B%B8%E9%99%A4%E6%B3%95/"/>
     <id>http://nooballen.top/2020/11/05/%E8%BE%97%E8%BD%AC%E7%9B%B8%E9%99%A4%E6%B3%95/</id>
     <published>2020-11-05T15:55:05.759Z</published>
-    <updated>2020-09-28T14:28:26.389Z</updated>
+    <updated>2020-11-07T02:53:10.803Z</updated>
     
     <content type="html"><![CDATA[<p>求两个数的最大公约数的常用方法为辗转相除法，通常用于分数约分</p><p>以除数和余数反复做除法运算</p><p>int GCD(int a,int b)  //求最大公约数<br>{<br>   int num1=max(a,b),num2=min(a,b);<br>   int temp=num1%num2; //记录余数</p><p>   while(temp!=0)<br>   {<br>        num1=num2;<br>        num2=temp;<br>        temp=num1%num2;<br>    } cout&lt;&lt;num2&lt;&lt;” “;<br>    return num2;<br>}</p>]]></content>
     
@@ -58,14 +58,16 @@
     
     
     
+    <category term="算法" scheme="http://nooballen.top/tags/%E7%AE%97%E6%B3%95/"/>
+    
   </entry>
   
   <entry>
-    <title></title>
+    <title>洛谷题解</title>
     <link href="http://nooballen.top/2020/09/20/%E6%B4%9B%E8%B0%B7%E9%A2%98%E8%A7%A3/"/>
     <id>http://nooballen.top/2020/09/20/%E6%B4%9B%E8%B0%B7%E9%A2%98%E8%A7%A3/</id>
     <published>2020-09-20T13:30:55.775Z</published>
-    <updated>2020-09-20T13:31:28.820Z</updated>
+    <updated>2020-11-07T02:53:35.961Z</updated>
     
     <content type="html"><![CDATA[<p>Hello</p>]]></content>
     

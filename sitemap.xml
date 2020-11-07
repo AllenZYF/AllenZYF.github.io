@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://nooballen.top/2020/09/20/%E6%B4%9B%E8%B0%B7%E9%A2%98%E8%A7%A3/</loc>
+    
+    <lastmod>2020-11-07</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://nooballen.top/2020/11/05/%E8%BE%97%E8%BD%AC%E7%9B%B8%E9%99%A4%E6%B3%95/</loc>
+    
+    <lastmod>2020-11-07</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://nooballen.top/2020/11/05/C++%E4%B8%AD%E5%85%B3%E4%BA%8Estring%E7%9A%84%E7%94%A8%E6%B3%95/</loc>
     
     <lastmod>2020-11-07</lastmod>
@@ -22,20 +36,6 @@
     
   </url>
   
-  <url>
-    <loc>http://nooballen.top/2020/11/05/%E8%BE%97%E8%BD%AC%E7%9B%B8%E9%99%A4%E6%B3%95/</loc>
-    
-    <lastmod>2020-09-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://nooballen.top/2020/09/20/%E6%B4%9B%E8%B0%B7%E9%A2%98%E8%A7%A3/</loc>
-    
-    <lastmod>2020-09-20</lastmod>
-    
-  </url>
-  
 
   <url>
     <loc>http://nooballen.top/</loc>
@@ -44,6 +44,13 @@
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>http://nooballen.top/tags/%E7%AE%97%E6%B3%95/</loc>
+    <lastmod>2020-11-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
 
   
