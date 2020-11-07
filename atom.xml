@@ -6,7 +6,7 @@
   <link href="http://nooballen.top/atom.xml" rel="self"/>
   
   <link href="http://nooballen.top/"/>
-  <updated>2020-11-07T02:27:04.228Z</updated>
+  <updated>2020-11-07T03:04:59.593Z</updated>
   <id>http://nooballen.top/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Allen学数据结构与算法基础</title>
+    <link href="http://nooballen.top/2020/11/07/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    <id>http://nooballen.top/2020/11/07/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</id>
+    <published>2020-11-07T03:00:58.672Z</published>
+    <updated>2020-11-07T03:04:59.593Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="基本概念及术语"><a href="#基本概念及术语" class="headerlink" title="基本概念及术语"></a>基本概念及术语</h2><hr><p>数据 &gt; 数据元素 &gt; 数据项</p><p><img src="/2020/11/07/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/image-20201105233617409.png" alt="image-20201105233617409"></p><p>逻辑结构可分为</p><p>1.线性结构</p><p>2.非线性结构</p><p><img src="/2020/11/07/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/image-20201105234337718.png" alt="image-20201105234337718"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本概念及术语&quot;&gt;&lt;a href=&quot;#基本概念及术语&quot; class=&quot;headerlink&quot; title=&quot;基本概念及术语&quot;&gt;&lt;/a&gt;基本概念及术语&lt;/h2&gt;&lt;hr&gt;
+&lt;p&gt;数据 &amp;gt; 数据元素 &amp;gt; 数据项&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/2020/</summary>
+      
+    
+    
+    
+    
+    <category term="CS" scheme="http://nooballen.top/tags/CS/"/>
+    
+  </entry>
   
   <entry>
     <title>string用法</title>
