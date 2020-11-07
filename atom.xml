@@ -6,7 +6,7 @@
   <link href="http://nooballen.top/atom.xml" rel="self"/>
   
   <link href="http://nooballen.top/"/>
-  <updated>2020-09-28T13:59:19.273Z</updated>
+  <updated>2020-11-07T02:19:41.894Z</updated>
   <id>http://nooballen.top/</id>
   
   <author>
@@ -21,20 +21,15 @@
     <link href="http://nooballen.top/2020/11/05/C++%E4%B8%AD%E5%85%B3%E4%BA%8Estring%E7%9A%84%E7%94%A8%E6%B3%95/"/>
     <id>http://nooballen.top/2020/11/05/C++%E4%B8%AD%E5%85%B3%E4%BA%8Estring%E7%9A%84%E7%94%A8%E6%B3%95/</id>
     <published>2020-11-05T15:55:05.762Z</published>
-    <updated>2020-09-28T13:59:19.273Z</updated>
+    <updated>2020-11-07T02:19:41.894Z</updated>
     
-    <content type="html"><![CDATA[<p>C++中关于string的用法</p><p>string str;</p><p>查找</p><p>str.find(); 如果没有找到，会返回一个值string::npos</p><p>修改</p><p>1.对string进行排序</p><p>sort(str.begin(),str.end());</p><p>2.向string中插入字符</p><p>str.insert(  n1,  s  , n2,  len   )  </p><p>从str[n1]起 插入从s[n2]起的len个字符</p>]]></content>
+    <content type="html"><![CDATA[<hr><h2 id="title-C-中关于string的用法"><a href="#title-C-中关于string的用法" class="headerlink" title="title:C++中关于string的用法"></a>title:C++中关于string的用法</h2><p>string str;</p><p>查找</p><p>str.find(); 如果没有找到，会返回一个值string::npos</p><p>修改</p><p>1.对string进行排序</p><p>sort(str.begin(),str.end());</p><p>2.向string中插入字符</p><p>str.insert(  n1,  s  , n2,  len   )  </p><p>从str[n1]起 插入从s[n2]起的len个字符</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;C++中关于string的用法&lt;/p&gt;
-&lt;p&gt;string str;&lt;/p&gt;
-&lt;p&gt;查找&lt;/p&gt;
-&lt;p&gt;str.find(); 如果没有找到，会返回一个值string::npos&lt;/p&gt;
-&lt;p&gt;修改&lt;/p&gt;
-&lt;p&gt;1.对string进行排序&lt;/p&gt;
-&lt;p&gt;sort(str.</summary>
+    <summary type="html">&lt;hr&gt;
+&lt;h2 id=&quot;title-C-中关于string的用法&quot;&gt;&lt;a href=&quot;#title-C-中关于string的用法&quot; class=&quot;headerlink&quot; title=&quot;title:C++中关于string的用法&quot;&gt;&lt;/a&gt;title:C++中关于string的用</summary>
       
     
     
