@@ -18,15 +18,15 @@
   
   
   <title>string用法 | NoobAllen&#39;s Place</title>
-  <meta name="description" content="string str; 查找str.find(); 如果没有找到，会返回一个值string::npos 修改1.对string进行排序 sort(str.begin(),str.end()); 2.向string中插入字符 str.insert(  n1,  s  , n2,  len   )   从str[n1]起 插入从s[n2]起的len个字符">
+  <meta name="description" content="string str; 查找str.find(); 如果没有找到，会返回一个值string::npos 修改1.对string进行排序 sort(str.begin(),str.end()); 2.向string中插入字符 str.insert(  n1,  s  , n2,  len   )   从str[n1]起 插入从s[n2]起的len个字符 3.覆盖一部分字符串 str.replace(">
 <meta property="og:type" content="article">
 <meta property="og:title" content="string用法">
 <meta property="og:url" content="http://nooballen.top/2020/11/05/C++%E4%B8%AD%E5%85%B3%E4%BA%8Estring%E7%9A%84%E7%94%A8%E6%B3%95/index.html">
 <meta property="og:site_name">
-<meta property="og:description" content="string str; 查找str.find(); 如果没有找到，会返回一个值string::npos 修改1.对string进行排序 sort(str.begin(),str.end()); 2.向string中插入字符 str.insert(  n1,  s  , n2,  len   )   从str[n1]起 插入从s[n2]起的len个字符">
+<meta property="og:description" content="string str; 查找str.find(); 如果没有找到，会返回一个值string::npos 修改1.对string进行排序 sort(str.begin(),str.end()); 2.向string中插入字符 str.insert(  n1,  s  , n2,  len   )   从str[n1]起 插入从s[n2]起的len个字符 3.覆盖一部分字符串 str.replace(">
 <meta property="og:locale" content="zh_CN">
 <meta property="article:published_time" content="2020-11-05T15:55:05.762Z">
-<meta property="article:modified_time" content="2020-11-07T02:27:04.228Z">
+<meta property="article:modified_time" content="2020-11-16T13:27:45.212Z">
 <meta property="article:author" content="Allen">
 <meta name="twitter:card" content="summary">
   <!-- Canonical links -->
@@ -234,7 +234,7 @@
   <div class="widget">
     <h3 class="widget-title">归档</h3>
     <div class="widget-body">
-      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2020/11/">十一月 2020</a><span class="archive-list-count">3</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2020/09/">九月 2020</a><span class="archive-list-count">1</span></li></ul>
+      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2020/11/">十一月 2020</a><span class="archive-list-count">4</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2020/09/">九月 2020</a><span class="archive-list-count">1</span></li></ul>
     </div>
   </div>
 
@@ -246,6 +246,21 @@
     <div class="widget-body">
       <ul class="recent-post-list list-unstyled no-thumbnail">
         
+          <li>
+            
+            <div class="item-inner">
+              <p class="item-category">
+                
+              </p>
+              <p class="item-title">
+                <a href="/2020/11/25/Python/" class="title">(no title)</a>
+              </p>
+              <p class="item-date">
+                <time datetime="2020-11-25T08:42:24.441Z" itemprop="datePublished">2020-11-25</time>
+              </p>
+            </div>
+          </li>
+          
           <li>
             
             <div class="item-inner">
@@ -353,7 +368,7 @@
         <span class="post-comment"><i class="icon icon-comment"></i> <a href="/2020/11/05/C++%E4%B8%AD%E5%85%B3%E4%BA%8Estring%E7%9A%84%E7%94%A8%E6%B3%95/#comments" class="article-comment-link">评论</a></span>
         
 	
-		<span class="post-wordcount hidden-xs" itemprop="wordCount">字数统计: 63(字)</span>
+		<span class="post-wordcount hidden-xs" itemprop="wordCount">字数统计: 106(字)</span>
 	
 	
 		<span class="post-readcount hidden-xs" itemprop="timeRequired">阅读时长: 1(分)</span>
@@ -370,6 +385,8 @@
 <p>2.向string中插入字符</p>
 <p>str.insert(  n1,  s  , n2,  len   )  </p>
 <p>从str[n1]起 插入从s[n2]起的len个字符</p>
+<p>3.覆盖一部分字符串</p>
+<p>str.replace(被覆盖的下标，覆盖几个，覆盖来源的字符串，覆盖来源的字符串下标，选取几个)</p>
 
       
     </div>
